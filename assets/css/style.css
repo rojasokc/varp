@@ -307,6 +307,14 @@ box-shadow:0 5px 15px rgba(0,0,0,0.2);
 display: block;
 }
 
+.heroa{
+background:#1e3799;
+color:white;
+text-align:center;
+padding:70px 20px;
+}
+
+
 .hero{
 
     position:relative;
